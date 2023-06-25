@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @enn123
-- 🌱 I’m currently learning... nothing...
-- 📫 How to reach me: admin@enno123.de
+- 👋 Hi, I’m @enno123
+- 📫 Contact: admin@enno123.de
